@@ -41,6 +41,7 @@
 <img src="./public/images/Punto12.PNG" alt="html">
 
 <h2> Punto 13: Suma de un arreglo</h2>
+<img src="./public/images/Punto13.PNG" alt="html">
 
 <h2> Punto 14: Revisión de contraseña</h2>
 
