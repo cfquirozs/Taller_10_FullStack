@@ -26,6 +26,7 @@
 <img src="./public/images/Punto7.PNG" alt="html">
 
 <h2> Punto 8: Calculo de pago en Bolera con SWITCH</h2>
+<img src="./public/images/Punto8.PNG" alt="html">
 
 <h2> Punto 9: Tabla del 0 al 30 WHILE</h2>
 
