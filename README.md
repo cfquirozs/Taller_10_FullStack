@@ -47,3 +47,4 @@
 <img src="./public/images/Punto14.PNG" alt="html">
 
 <h2> Punto 15: Operaciones básicas entre 2 números con funciones</h2>
+<img src="./public/images/Punto15.PNG" alt="html">
