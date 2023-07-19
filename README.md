@@ -17,6 +17,7 @@
 <img src="./public/images/Punto4.PNG" alt="html">
 
 <h2> Punto 5: Calculo de pago en Bolera con IF</h2>
+<img src="./public/images/Punto5.PNG" alt="html">
 
 <h2> Punto 6: Usuario mayor o menor de edad</h2>
 
