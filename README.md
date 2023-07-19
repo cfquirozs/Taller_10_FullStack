@@ -35,6 +35,7 @@
 <img src="./public/images/Punto10.PNG" alt="html">
 
 <h2> Punto 11: Números pares del 0 al 100 For</h2>
+<img src="./public/images/Punto11.PNG" alt="html">
 
 <h2> Punto 12: Tabla del 0 al 30 FOR</h2>
 
