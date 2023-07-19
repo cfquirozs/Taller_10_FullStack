@@ -20,6 +20,7 @@
 <img src="./public/images/Punto5.png" alt="html">
 
 <h2> Punto 6: Usuario mayor o menor de edad</h2>
+<img src="./public/images/Punto6.PNG" alt="html">
 
 <h2> Punto 7: Operaciones básicas entre 2 números</h2>
 
