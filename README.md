@@ -23,6 +23,7 @@
 <img src="./public/images/Punto6.PNG" alt="html">
 
 <h2> Punto 7: Operaciones básicas entre 2 números</h2>
+<img src="./public/images/Punto7.PNG" alt="html">
 
 <h2> Punto 8: Calculo de pago en Bolera con SWITCH</h2>
 
